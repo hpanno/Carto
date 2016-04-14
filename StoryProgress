@@ -15,8 +15,11 @@ L.marker([37.7620, -122.4385]).actions.addRemove(S.map)
 
 We did this round trip, 5 mile hike on the perfect day. Huge clouds hung up above and gave us just the right amount of shade. We had been so fortunate as to get quite a bit of rain, so we were able to hear the Escondido Creek actually flowing as we entered and exited the park.
 
+[Elfin Forest Hike on CartoDB](https://hkpanno.cartodb.com/viz/b15e6fc2-025b-11e6-b66e-0ecd1babdde5/public_map)
+
 ![Elfin Forest](https://c2.staticflickr.com/2/1602/26305098012_ec5ceb8e39_b.jpg
 )
+
 
 #Garnet Peak, Laguna Mountains
 
@@ -27,6 +30,9 @@ L.marker([40.7348, -73.9970]).actions.addRemove(S.map)
 ```
 
 The hike we did this day included a portion of the Pacific Crest Trail (which takes you up to Garnet Peak), the Indian Creek Trail, and the Nobel Canyon Trail for a total of 9.22 miles. This was by far one of my favorite hikes in San Diego County. 
+
+[Laguna Mountain HIke Loop on CartoDB](https://hkpanno.cartodb.com/viz/1d14b7d4-ad8f-11e5-af26-0e3ff518bd15/public_map)
+
 
 ![Garnet Peak](https://c2.staticflickr.com/2/1486/23401202203_946686756f_b.jpg)
 
