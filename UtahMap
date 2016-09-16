@@ -1,0 +1,100 @@
+/** choropleth visualization:  Yankee Doodle Canyon */
+
+#yankeedoodlecanyon_track_points{
+  marker-fill-opacity: 0.8;
+  marker-line-color: #FFF;
+  marker-line-width: 0;
+  marker-line-opacity: 0;
+  marker-width: 5;
+  marker-fill: #F7F7F7;
+  marker-allow-overlap: true;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1344.56823730469] {
+   marker-fill: #252525;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1332.38978129589] {
+   marker-fill: #525252;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1317.5273611033] {
+   marker-fill: #737373;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1303.08996582031] {
+   marker-fill: #969696;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1283.31057649341] {
+   marker-fill: #BDBDBD;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1268.67602539062] {
+   marker-fill: #D9D9D9;
+}
+#yankeedoodlecanyon_track_points [ ele <= 1257.32763671875] {
+   marker-fill: #F7F7F7;
+}
+
+/** choropleth visualization: Sunset Canyon */
+
+#sunsetcanyon_track_points{
+  marker-fill-opacity: 0.8;
+  marker-line-color: #FFF;
+  marker-line-width: 0;
+  marker-line-opacity: 1;
+  marker-width: 5;
+  marker-fill: #EDF8FB;
+  marker-allow-overlap: true;
+}
+#sunsetcanyon_track_points [ ele <= 1675.23396873474] {
+   marker-fill: #006D2C;
+}
+#sunsetcanyon_track_points [ ele <= 1621.39403354483] {
+   marker-fill: #2CA25F;
+}
+#sunsetcanyon_track_points [ ele <= 1607.23226268064] {
+   marker-fill: #66C2A4;
+}
+#sunsetcanyon_track_points [ ele <= 1599.19874959923] {
+   marker-fill: #B2E2E2;
+}
+#sunsetcanyon_track_points [ ele <= 1593.23400489212] {
+   marker-fill: #EDF8FB;
+}
+
+/** choropleth visualization:Kolob Canyon */
+
+#kooblascanyon_1_track_points{
+  marker-fill-opacity: 0.8;
+  marker-line-color: #FFF;
+  marker-line-width: 0;
+  marker-line-opacity: 1;
+  marker-width: 5;
+  marker-fill: #FFFFB2;
+  marker-allow-overlap: true;
+}
+#kooblascanyon_1_track_points [ ele <= 2029.58349609375] {
+   marker-fill: #BD0026;
+}
+#kooblascanyon_1_track_points [ ele <= 1914.96658745262] {
+   marker-fill: #F03B20;
+}
+#kooblascanyon_1_track_points [ ele <= 1904.92138671875] {
+   marker-fill: #FD8D3C;
+}
+#kooblascanyon_1_track_points [ ele <= 1860.830078125] {
+   marker-fill: #FECC5C;
+}
+#kooblascanyon_1_track_points [ ele <= 1816.59171020049] {
+   marker-fill: #FFFFB2;
+}
+
+/** simple visualization: Desert Tortise Alley*/
+
+#backyardtrail_1_track_points{
+  marker-fill-opacity: 0.9;
+  marker-line-color: #FFF;
+  marker-line-width: 0;
+  marker-line-opacity: 1;
+  marker-placement: point;
+  marker-type: ellipse;
+  marker-width: 5;
+  marker-fill: #FF6600;
+  marker-allow-overlap: true;
+}
