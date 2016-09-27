@@ -1,0 +1,1 @@
+"<BOL>"  & [NAME1_] & "</BOL>" & vbnewline &+ "Population: "+[POP_RES] 
